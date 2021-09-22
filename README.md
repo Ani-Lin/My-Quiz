@@ -1,1 +1,1 @@
-# My-Quiz
+# MyQuiz
